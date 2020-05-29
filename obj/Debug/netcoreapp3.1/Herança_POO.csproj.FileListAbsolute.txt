@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.exe
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\bin\Debug\netcoreapp3.1\Herança_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Herança_POO\obj\Debug\netcoreapp3.1\Herança_POO.genruntimeconfig.cache
